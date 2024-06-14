@@ -1,5 +1,5 @@
 from reportlab.lib.pagesizes import A4
-from reportlab.lib.colors import black, gray, HexColor
+from reportlab.lib.colors import gray, HexColor
 from reportlab.pdfgen import canvas
 
 
